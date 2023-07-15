@@ -1,3 +1,4 @@
+//같은 답 중에 사전순으로 가장 먼저 오는 답 하나만을 세는 것
 #include <iostream>
 using namespace std;
 
